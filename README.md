@@ -30,10 +30,10 @@ cd GUI
 streamlit run gui.py
 ```
 ### Command Line Interface
-bash:README.md
+```bash:README.md
 cd scripts
 python predict_args.py -i <url>
-
+```
 ## Project Structure 📁
 url-shield/
 ├── GUI/ # Streamlit web interface
