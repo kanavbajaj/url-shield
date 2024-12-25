@@ -1,0 +1,12 @@
+pandas
+numpy
+pyquery
+requests
+python-whois
+tensorflow
+scikit-learn
+streamlit
+interruptingcow
+jupyter
+matplotlib
+seaborn
